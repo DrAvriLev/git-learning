@@ -1,0 +1,3 @@
+This is a new file created with vim.
+If you want to use the command line hit Esc...
+
