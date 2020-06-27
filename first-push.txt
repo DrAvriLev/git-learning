@@ -1,3 +1,5 @@
 This is a new file created with vim.
-If you want to use the command line hit Esc...
+If you want to use the command line hit Esc
+
+set number with :set number
 
